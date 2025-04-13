@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Giridhr10
-- 🌱 I’m currently learning ML, DA, DS, DE.
+- 🌱 I’m currently exploring Data related  ....
 
 
 <!---
